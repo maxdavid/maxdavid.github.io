@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: Crush
+Disallow: Kill
+Disallow: Destroy
