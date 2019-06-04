@@ -22,8 +22,8 @@ a:hover { color: #37FF00; }
 .links a:hover { color: #1E8A00; }
 
 a.startgame { color: #D7FFCC; }
+a.startgame:visited { color: #D7FFCC; }
 a.startgame:hover { color: #37FF00; }
-a.startgame:visited { color: #37FF00; }
 
 pre {
   margin: 0 auto;
